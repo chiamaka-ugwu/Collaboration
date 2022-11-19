@@ -1,0 +1,38 @@
+Javascript Types
+Boolean: True or False
+Null: Empty
+Undefined: When the variable has nothing in it.
+String: This has to do with numbers or words. Enclose your values in either single or double quotes.
+Number: This is strictly numeric data. They can be whole numbers or floats 
+Symbols: + - %(modulus) * /
+
+
+VARIABLES
+This is a container that is used to store data
+
+DATA TYPES 
+1. Number: Integers and Floats
+2. String: Characters, letters, number enclosed in quotes.
+3. Boolean: True or False
+
+MATHEMATICAL OPERATORS
++ - / * % **
+
+IF ELSE STATEMENTS
+
+CONDITIONAL OPERATORS
+> 
+< 
+>= 
+<= 
+=(assign value to a variable) 
+==(cross checks equivalence of variables declared)
+
+
+LOOPS (FOR LOOP, WHILE LOOP)
+ARRAYS
+FUNCTIONS- Inbuilt and User Generated Functions.
+EVENTS
+HTML AND CSS MANIPULATIONS
+
+
